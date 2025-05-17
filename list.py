@@ -1,0 +1,1 @@
+people = ['soykot','amin','mitu','safa']
